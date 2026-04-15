@@ -48,33 +48,17 @@
 
 <tr>
 <td>🥇</td>
-<td>1st Place – Crossroads 2026 Project Exhibition</td>
+<td>1st Place – Crossroads 2026 Treasure hunt</td>
 </tr>
 
 <tr>
-<td>🥇</td>
-<td>1st Place – Scrolls’25 National Technical Paper Presentation (AKGEC)</td>
-</tr>
+<td>volunteering</td>
+<td>Sopra Steria on share and support day</td>
 
-<tr>
-<td>🥈</td>
-<td>2nd Position – Tech Fusion 2025 Tech Think Tank (IPEM)</td>
-</tr>
-
-<tr>
-<td>🥇</td>
-<td>1st Place – Crossroads 2024 (GAMMBED QUIZ COMPETITION)</td>
-</tr>
-
-<tr>
 <td>🚀</td>
-<td>Built 8+ Full Stack Projects</td>
+<td>Built  Frontend Projects</td>
 </tr>
 
-<tr>
-<td>🌍</td>
-<td>Projects actively used by 50+ users</td>
-</tr>
 
 </table>
 
@@ -142,17 +126,17 @@
 </tr>
 
 <tr>
-<td>🧠 AI Career Coach</td>
-<td>AI-powered career roadmap generator</td>
-<td>React • Node • Gemini</td>
-<td><a href="https://mindstep.netlify.app/">Live</a></td>
+<td>Netflic Clone</td>
+  <td>Copy the Netflix wedsite to strong in our skill or practice.</td>
+<td>Html• Css</td>
+<td><a href="netfix-clone-by-jyoti.netlify.app/">Live</a></td>
 </tr>
 
 <tr>
-<td>💼 Developer Portfolio</td>
+<td>💼 Portfolio</td>
 <td>Interactive 3D animated portfolio</td>
-<td>React • Three.js • GSAP</td>
-<td><a href="http://gupta-aman-portfolio.netlify.app/">Live</a></td>
+<td>html • css• js</td>
+<td><a href="portfolio-jyoti-dev.netlify.app/">Live</a></td>
 </tr>
 
 <tr>
@@ -163,18 +147,13 @@
 </tr>
 
 <tr>
-<td>🎓 Crossroads Tech Fest</td>
-<td>Event platform for college tech fest</td>
-<td>MERN • GSAP</td>
-<td><a href="https://crossroads-hiet.netlify.app/">Live</a></td>
+<td>🎓 Color gradient</td>
+<td>Choose the background color according to your intrest</td>
+<td>html • css• javascript</td>
+<td><a href="https://gradent-formation-by-jyoti.netlify.app/">Live</a></td>
 </tr>
 
 <tr>
-<td>💬 TeamUp</td>
-<td>Team collaboration platform</td>
-<td>MERN Stack</td>
-<td><a href="https://hietteam.netlify.app/">Live</a></td>
-</tr>
 
 </table>
 
@@ -245,7 +224,7 @@ and contributing to open-source innovation.
 
 <tr>
 <td>💡 Real-World Problem Solving</td>
-<td>Projects designed to address practical challenges such as career guidance, agriculture platforms, and healthcare.</td>
+<td>Projects designed to address practical challenges such as agriculture platforms.</td>
 </tr>
 
 </table>
@@ -279,20 +258,20 @@ and scalable software architecture.
 
 <tr>
 <td>🔍 In Progress</td>
-<td>Machine Learning & System Design</td>
-<td>Exploring advanced React frameworks, SSR, and scalable application patterns.</td>
+<td>DSA IN JAVA</td>
+<td>Strongly focused on solving Data Structures and Algorithms (DSA) problems in Java by deeply analyzing problem statements, identifying optimal approaches, and implementing efficient solutions.</td>
 </tr>
 
 <tr>
 <td>📘 In Progress</td>
-<td>Data Structures & Algorithms</td>
-<td>Strengthening problem-solving ability and algorithmic thinking.</td>
+<td>Machine Learning </td>
+<td>Focused on learning Machine Learning by understanding core concepts, analyzing datasets, and building models to solve real-world problems.</td>
 </tr>
 
 <tr>
 <td>🚀 Planned</td>
-<td>AI SaaS Product</td>
-<td>Building a production-ready SaaS platform integrating AI-powered features.</td>
+<td>AI shaff</td>
+<td>Developed a full stack AI-based staff management system that streamlines operations, manages employee data, and provides intelligent insights.</td>
 </tr>
 
 <tr>
@@ -303,8 +282,8 @@ and scalable software architecture.
 
 <tr>
 <td>🎤 Planned</td>
-<td>Technical Speaking</td>
-<td>Sharing insights on AI development, frontend engineering, and modern web architecture.</td>
+<td>Hari Jal Website</td>
+<td>The Hari Jal website aims to create awareness about sustainable water usage and encourage people to adopt water-saving practices for a better future.</td>
 </tr>
 
 </table>
@@ -393,16 +372,16 @@ These insights represent my coding consistency, repository contributions, and pr
 
 <tr>
 <td>2026</td>
-<td>Launched Matru Care AI Platform with AI-driven healthcare guidance.</td>
+<td>QueensBeauty is a modern web application designed to provide information about beauty services and products, offering a clean UI and smooth user experience.</td>
 </tr>
 <tr>
 <td>2025</td>
-<td>Launched AI Career Coach Platform with AI-driven career guidance and College Technical Fest Registration Website.</td>
+<td>Developed a visually appealing website by incorporating smooth color gradients, improving design aesthetics, user experience, and overall interface consistency.</td>
 </tr>
 
 <tr>
 <td>2024-2025</td>
-<td>Developed multiple production-ready full-stack web applications.</td>
+<td>Created a responsive Tic Tac Toe game with win detection logic, player turns, and an intuitive interface for an engaging user experience.</td>
 </tr>
 
 <tr>
@@ -412,7 +391,7 @@ These insights represent my coding consistency, repository contributions, and pr
 
 <tr>
 <td>2026</td>
-<td>Building advanced AI-powered platforms in healthcare and career development.</td>
+<td>EduPath AI is an intelligent learning platform designed to guide students by analyzing their performance and suggesting personalized learning paths for better outcomes.</td>
 </tr>
 
 </table>
@@ -426,15 +405,15 @@ These insights represent my coding consistency, repository contributions, and pr
 <h2>🔗 Connect With Me</h2>
 
 <p>
-<a href="mailto:ag0567688@gmail.com">
+<a href="mailto:jsingh58645@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/amangupta9454/">
+<a href="https://www.linkedin.com/in/jyoti-singh2005/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="http://gupta-aman-portfolio.netlify.app/">
+<a href="portfolio-jyoti-dev.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge">
 </a>
 
@@ -455,15 +434,6 @@ These insights represent my coding consistency, repository contributions, and pr
 <hr>
 </section>
 
-<section align="center">
-
-<h2>🏆 GitHub Trophy Wall</h2>
-
-<p>
-<img src="https://github-profile-trophy.vercel.app/?username=Jyoti-coder-1004&theme=flat&row=1&column=6" />
-</p>
-
-</section>
 
 <hr>
 
@@ -507,7 +477,7 @@ These insights represent my coding consistency, repository contributions, and pr
 <tr>
 <td>Node.js / Backend Development</td>
 <td>
-██████████████████ 82%
+██████ 20%
 </td>
 </tr>
 
@@ -536,66 +506,7 @@ These insights represent my coding consistency, repository contributions, and pr
 
 </section>
 
-<hr>
 
-<section>
-
-<h2>🚀 Featured & Pinned Projects</h2>
-
-<table border="1" cellpadding="10">
-
-<tr>
-<th>Project</th>
-<th>Description</th>
-<th>Tech Stack</th>
-<th>Demo</th>
-</tr>
-
-<tr>
-<td>🧠 AI Career Coach</td>
-<td>AI-powered career roadmap generator helping students discover career paths.</td>
-<td>React • Node.js • Gemini AI</td>
-<td><a href="https://mindstep.netlify.app/">Live Demo</a></td>
-</tr>
-
-<tr>
-<td>🤱 MATRUCARE AI</td>
-<td>Maternal healthcare platform connecting mothers, doctors, and ASHA workers.</td>
-<td>MERN Stack • AI</td>
-<td><a href="https://matrucare-ai.netlify.app/">Live Demo</a></td>
-</tr>
-
-<tr>
-<td>🌾 AgriFarmio</td>
-<td>Digital agriculture platform connecting farmers with consumers.</td>
-<td>MERN • AI APIs</td>
-<td><a href="https://agri-farmio.netlify.app/">Live Demo</a></td>
-</tr>
-
-<tr>
-<td>🎓 Crossroads Tech Fest</td>
-<td>College tech fest management platform.</td>
-<td>MERN Stack</td>
-<td><a href="https://hiet-crossroads.online/">Live Demo</a></td>
-</tr>
-
-</table>
-
-</section>
-
-<hr>
-
-<section>
-
-<h2>🧠 AI Projects Showcase</h2>
-
-<table border="1" cellpadding="10">
-
-<tr>
-<th>Project</th>
-<th>AI Feature</th>
-<th>Impact</th>
-</tr>
 
 <!-- <tr>
 <td>AI Career Coach</td>
@@ -603,33 +514,7 @@ These insights represent my coding consistency, repository contributions, and pr
 <td>Helps students plan skill-based career paths.</td>
 </tr> -->
 
-<tr>
-<td>MATRUCARE AI</td>
-<td>Healthcare decision support and maternal health monitoring.</td>
-<td>Improves maternal healthcare accessibility.</td>
-</tr>
 
-<tr>
-<td>AgriFarmio</td>
-<td>AI-based agriculture insights and crop intelligence.</td>
-<td>Supports farmers with smarter crop planning.</td>
-</tr>
-
-</table>
-
-</section>
-
-<hr>
-
-<section align="center">
-
-<h2>🐍 Contribution Activity</h2>
-
-<p>
-<img src="https://raw.githubusercontent.com/amangupta9454/amangupta9454/output/github-contribution-grid-snake.svg" />
-</p>
-
-</section>
 
 <hr>
 <p align="center"><b>✨ Thanks for visiting — let's build something awesome together! ✨</b></p>
