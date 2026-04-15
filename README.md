@@ -28,7 +28,7 @@
 🔭 Currently developing <b>MATRUCARE AI</b>, an intelligent maternal healthcare platform.<br>
 🌱 Exploring <b>Machine Learning, LLMs, and Data Science</b>.<br>
 🤝 Open to collaboration on <b>impactful tech and open-source projects</b>.<br>
-📬 Contact me: <a href="mailto:ag0567688@gmail.com">ag0567688@gmail.com</a>
+📬 Contact me: <a href="mailto:jsingh58645@gmail.com">jsingh58645@gmail.com</a>
 </p>
 
 </section>
