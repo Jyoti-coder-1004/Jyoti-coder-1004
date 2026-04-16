@@ -292,45 +292,6 @@ and scalable software architecture.
 
 <hr>
 
-<section>
-
-<h2>🏅 Certifications & Professional Achievements</h2>
-
-<table border="1" cellpadding="10">
-
-<tr>
-<th>Category</th>
-<th>Achievement</th>
-<th>Details</th>
-</tr>
-
-<tr>
-<td>🌍 Open Source</td>
-<td>GirlScript Summer of Code Contributor</td>
-<td>Contributed to open-source projects and collaborated with global developers.</td>
-</tr>
-
-<tr>
-<td>📜 Certifications</td>
-<td>Industry Technology Certifications</td>
-<td>Earned multiple certifications including Cloud Computing and Web Development.</td>
-</tr>
-
-<tr>
-<td>🥇 Programming Competition</td>
-<td>Winner – CodeRush Weekly #4</td>
-<td>Recognized for competitive programming and algorithmic skills.</td>
-</tr>
-
-<tr>
-<td>🏅 Technical Quiz</td>
-<td>Winner – Gambed Technical Quiz Contest</td>
-<td>Demonstrated strong technical and problem-solving knowledge.</td>
-</tr>
-
-</table>
-
-</section>
 
 <hr>
 
