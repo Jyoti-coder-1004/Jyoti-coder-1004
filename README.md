@@ -52,8 +52,22 @@
 </tr>
 
 <tr>
+<td>🥇</td>
+<td>3rd Place – 12th class in GOVT. GIRLS INTER COLLEGE</td>
+</tr>
+<tr>
+<td>🥇</td>
+<td>24TH Place – 1ST Sem. in our college</td>
+</tr>
+
+<tr>
 <td>volunteering</td>
 <td>Sopra Steria on share and support day</td>
+</tr>
+<tr>
+<td>volunteering</td>
+<td>Govt girls inter college in summer camps</td>
+</tr>
 
 <td>🚀</td>
 <td>Built  Frontend Projects</td>
