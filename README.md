@@ -154,13 +154,6 @@
 </tr>
 
 <tr>
-<td>🌾 AgriFarmio</td>
-<td>Smart agriculture platform</td>
-<td>MERN • Gemini API</td>
-<td><a href="https://agri-farmio.netlify.app/">Live</a></td>
-</tr>
-
-<tr>
 <td>🎓 Color gradient</td>
 <td>Choose the background color according to your intrest</td>
 <td>html • css• javascript</td>
