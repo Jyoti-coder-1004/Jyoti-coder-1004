@@ -161,6 +161,18 @@
 </tr>
 
 <tr>
+<td>🎓 Motivational lines</td>
+<td>Be motivate to grow-up in our carrer</td>
+<td>FullStack</td>
+</tr>
+
+<tr>
+<td>🎓 Hospital Management System</td>
+<td>To learn managing the data</td>
+<td>Backend | express.js|Mongoose</td>
+</tr>
+
+<tr>
 
 </table>
 
