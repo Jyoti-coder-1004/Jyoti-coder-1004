@@ -3,7 +3,7 @@
 <h1>👋 Hi there, I'm <span style="color:#00B8D4;">Jyoti</span></h1>
 
 <p>
-<b>MERN Stack Developer • AI Enthusiast • Open Source Contributor</b>
+<b>MERN Stack Developer • AI Enthusiast • Open Source Contributor </b>
 </p>
 
 <p>
