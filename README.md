@@ -21,6 +21,47 @@
 
 <section>
 
+<h2>💻 Terminal Profile</h2>
+
+```text
+                            .--.
+                           |o_o |
+                           |:_/ |
+                          //   \\
+                         (|     | )
+                        /'\_   _/`\
+                        \___)=(___/
+
+────────────────────────────────────────────────────────────
+
+> neofetch
+
+User............. Jyoti
+OS............... Windows 11
+Kernel........... MirAI AI Builder
+Role............. MERN Stack Developer
+College.......... Hi-Tech Institute of Engineering & Technology
+Education........ B.Tech CSE (3rd Year)
+Languages........ Java • JavaScript • Python • C
+Frontend......... React • HTML • CSS • Tailwind CSS
+Backend.......... Node.js • Express.js
+Database......... MongoDB • MySQL
+Learning......... AI Engineering • MERN • DSA
+Projects......... EduPath AI • WaterWise AI • MatruCare AI
+Hobbies.......... Reading Novels • Chess • Coding
+Email............ jsingh58645@gmail.com
+
+────────────────────────────────────────────────────────────
+```
+
+</section>
+
+<hr>
+
+<hr>
+
+<section>
+
 <h2>🚀 About Me</h2>
 
 <p>
@@ -141,7 +182,7 @@
 
 <tr>
 <td>Netflic Clone</td>
-  <td>Copy the Netflix wedsite to strong in our skill or practice.</td>
+  <td>Responsive Netflix Clone built using HTML and CSS for frontend practice.</td>
 <td>Html• Css</td>
 <td><a href="netfix-clone-by-jyoti.netlify.app/">Live</a></td>
 </tr>
@@ -289,7 +330,7 @@ and scalable software architecture.
 
 <tr>
 <td>🚀 Planned</td>
-<td>AI shaff</td>
+<td>AI Staff Management System</td>
 <td>Developed a full stack AI-based staff management system that streamlines operations, manages employee data, and provides intelligent insights.</td>
 </tr>
 
@@ -318,6 +359,9 @@ and scalable software architecture.
 
 <h2>📈 GitHub Insights</h2>
 
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Jyoti-coder-1004&theme=algolia&margin-w=15&margin-h=15"/>
+</p>
 <p>
 These insights represent my coding consistency, repository contributions, and project development activity.
 </p>
@@ -393,9 +437,11 @@ These insights represent my coding consistency, repository contributions, and pr
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="portfolio-jyoti-dev.netlify.app">
+<a href="https://portfolio-jyoti-dev.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge">
 </a>
+
+
 
 
 </p>
