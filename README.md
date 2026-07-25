@@ -47,10 +47,10 @@ Frontend......... React • HTML • CSS • Tailwind CSS
 Backend.......... Node.js • Express.js
 Database......... MongoDB • MySQL
 Learning......... AI Engineering • MERN • DSA
-Projects......... EduPath AI • WaterWise AI • MatruCare AI
-Hobbies.......... Reading Novels • Chess • Coding
+Projects......... SmartCampus • WaterWise AI • queensBeauty
+Hobbies.......... Reading Novels • Cooking • Coding
 Email............ jsingh58645@gmail.com
-
+> neofetch
 ────────────────────────────────────────────────────────────
 ```
 
