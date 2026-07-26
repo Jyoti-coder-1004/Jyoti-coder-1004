@@ -184,7 +184,7 @@ Email............ jsingh58645@gmail.com
 <td>Netflic Clone</td>
   <td>Responsive Netflix Clone built using HTML and CSS for frontend practice.</td>
 <td>Html• Css</td>
-<td><a href="netfix-clone-by-jyoti.netlify.app/">Live</a></td>
+<td><a href="https://waterwise-bcc8qvgek-jyoti20.vercel.app/">Live</a></td>
 </tr>
 
 <tr>
@@ -198,6 +198,12 @@ Email............ jsingh58645@gmail.com
 <td>🎓 Color gradient</td>
 <td>Choose the background color according to your intrest</td>
 <td>html • css• javascript</td>
+<td><a href="https://gradent-formation-by-jyoti.netlify.app/">Live</a></td>
+</tr>
+<tr>
+<td> 💧Waterwise-AI</td>
+<td>"Every drop saved today secures tomorrow."</td>
+<td>Mongo • Express• React• Node  </td>
 <td><a href="https://gradent-formation-by-jyoti.netlify.app/">Live</a></td>
 </tr>
 
