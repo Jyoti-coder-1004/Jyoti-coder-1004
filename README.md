@@ -66,8 +66,8 @@ Email............ jsingh58645@gmail.com
 
 <p>
 💡 I build <b>AI-powered full-stack applications</b> that solve real-world problems.<br>
-🔭 Currently developing <b>MATRUCARE AI</b>, an intelligent maternal healthcare platform.<br>
-🌱 Exploring <b>Machine Learning, LLMs, and Data Science</b>.<br>
+🔭 Currently developing <b>🩸Blood Donation System</b>, Helping the Needy, One Drop at a Time.<br>
+🌱 Exploring <b>Machine Learning, LLMs, and SDE</b>.<br>
 🤝 Open to collaboration on <b>impactful tech and open-source projects</b>.<br>
 📬 Contact me: <a href="mailto:jsingh58645@gmail.com">jsingh58645@gmail.com</a>
 </p>
@@ -94,7 +94,7 @@ Email............ jsingh58645@gmail.com
 
 <tr>
 <td>🥇</td>
-<td>3rd Place – 12th class in GOVT. GIRLS INTER COLLEGE</td>
+<td>2nd runner – 12th class in GOVT. GIRLS INTER COLLEGE</td>
 </tr>
 <tr>
 <td>🥇</td>
@@ -111,7 +111,7 @@ Email............ jsingh58645@gmail.com
 </tr>
 
 <td>🚀</td>
-<td>Built  Frontend Projects</td>
+<td>Built  Full-stack Projects</td>
 </tr>
 
 
